@@ -49,5 +49,8 @@ https://user-images.githubusercontent.com/93690728/167066591-20123a07-8fb5-48e5-
 ## Summary
 It quickly becomes clear how this functionality could be leveraged by a criminal with a little imagination. Next time you go to plug in a USB, think twice about where it may have come from. 
 
+### Note
+This is a proof of concept only and should not be used to exploit any non-sandbox environments. Source code was modified from the 'Python for Cybersecurity' Coursera modules by Howard Poston.
+
 
 
